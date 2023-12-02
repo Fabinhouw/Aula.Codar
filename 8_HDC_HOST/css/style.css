@@ -388,3 +388,17 @@ footer {
         margin: 10px 0;
     }
 }
+
+@media (max-width: 470px) {
+    .navbar-items li {
+        font-size: 10px;
+    }
+
+    .logo {
+        width: 40px;
+    }
+
+    .default-btn {
+        padding: 10px;
+    }
+}
